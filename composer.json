@@ -1,6 +1,6 @@
 {
     "name": "damienvalade/eitri",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "website",
     "description": "Micro framework mvc",
     "keywords": [
